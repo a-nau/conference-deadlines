@@ -4090,6 +4090,18 @@
   end: '2024-09-29'
   sub: AD
   wikicfp: http://wikicfp.com/cfp/servlet/event.showcfp?eventid=86343&copyownerid=139659
+- title: WACV
+  year: 2025
+  id: wacv25
+  full_name: IEEE/CVF Winter Conference on Applications of Computer Vision
+  link: https://wacv2025.thecvf.com/
+  deadline: 2024-07-14 23:59
+  timezone: America/Los_Angeles
+  place: Tucson, Arizona
+  date: February 28 - March 4, 2025
+  start: '2025-02-28'
+  end: '2025-03-04'
+  sub: ML,CV
 - title: ICMLA
   year: 2024
   id: icmla24
@@ -4104,6 +4116,32 @@
   ranking: C
   ranking_link: http://portal.core.edu.au/conf-ranks/1122
   wikicfp: http://wikicfp.com/cfp/servlet/event.showcfp?eventid=177890&copyownerid=13149
+- title: 3DV
+  year: 2025
+  id: 3dv25
+  full_name: International Conference on 3D Vision
+  link: https://3dvconf.github.io/2025/
+  deadline: 2024-08-12 23:59
+  timezone: UTC-0
+  place: Singapore
+  date: March 25 - 28, 2025
+  start: '2025-03-25'
+  end: '2025-03-28'
+  hindex: 47
+  sub: CV
+- title: WSDM
+  year: 2025
+  id: wsdm25
+  full_name: ACM International Conference on Web Search and Data Mining
+  link: https://www.wsdm-conference.org/2025/
+  deadline: 2024-08-14 23:59
+  timezone: UTC-12
+  place: Hannover, Germany
+  date: March 10 - 14, 2025
+  start: '2025-03-10'
+  end: '2025-03-14'
+  sub: DM
+  note: Abstract deadline on August 7, 2024
 - title: AAAI
   year: 2025
   id: aaai25
@@ -4132,6 +4170,21 @@
   start: '2025-04-06'
   end: '2025-04-11'
   sub: SP
+- title: WACV
+  year: 2025
+  id: wacv25_2
+  full_name: IEEE/CVF Winter Conference on Applications of Computer Vision
+  link: https://wacv2025.thecvf.com/
+  deadline: 2024-09-09 23:59
+  timezone: UTC-7
+  place: Tucson, Arizona
+  date: February 28 - March 4, 2025
+  start: '2025-02-28'
+  end: '2025-03-04'
+  hindex: 109
+  sub: ML,CV
+  note: This is the second round of submissions. Summplementary material deadline
+    on Sep 11, 2024. More info <a href='https://wacv2025.thecvf.com/'>here</a>.
 - title: ICRA
   year: 2025
   id: icra25
@@ -4145,3 +4198,31 @@
   end: '2025-05-23'
   hindex: 119
   sub: RO
+- title: COLING
+  year: 2025
+  id: coling25
+  full_name: The 31st International Conference on Computational Linguistics
+  link: https://coling2025.org/
+  deadline: 2024-09-16 23:59
+  timezone: UTC-12
+  place: Abu Dhabi, UAE
+  date: January 19 - 24, 2025
+  start: '2025-01-19'
+  end: '2025-01-24'
+  hindex: 73
+  sub: NLP
+  note: More info can be found <a href="https://coling2025.org/calls/main_conference_papers/#important-dates">here</a>.
+- title: AAMAS
+  year: 2025
+  id: aamas25
+  full_name: Autonomous Agents and Multiagent Systems
+  link: https://aamas2025.org/
+  deadline: 2024-10-16 23:59
+  abstract_deadline: 2024-10-09 23:59
+  timezone: UTC-12
+  place: Detroit, Michigan, USA
+  date: May 19 - 23, 2025
+  start: '2025-05-19'
+  end: '2025-05-23'
+  sub: KR,ML,RO,AP
+  note: Mandatory abstract deadline on Oct 09, 2024. More info <a href='https://aamas2025.org/'>here</a>.
