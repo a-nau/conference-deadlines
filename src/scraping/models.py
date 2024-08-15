@@ -125,6 +125,8 @@ class ConferenceDeadline:
                 self.ranking = ""
         elif self.ranking == "A*":
             self.ranking = "As"
+        if isinstance(self.sub, list):
+            self.sub = ",".join(self.sub)
         self.sub = self.sub.replace("CG", "CV")
         return self
 
